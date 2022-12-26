@@ -32,6 +32,8 @@ class MyApp extends StatelessWidget {
   Now it´s time to start creating our database 
 
   okey now let´s start coding
+  if we want it to work we have to change our security rules in fersotre, since we didn´t add and authentication system on our app
+  follow my steps
 
  */
 
