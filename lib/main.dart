@@ -31,5 +31,7 @@ class MyApp extends StatelessWidget {
   Now we can run our app and start coding
   Now it´s time to start creating our database 
 
+  okey now let´s start coding
+
  */
 
